@@ -6,4 +6,4 @@
 
 ## 강의 노트 (일부)
 - CSS behind the scene
-[How CSS works behind the scene 81a604a6aea5438ca4cc0e2d8f2d5039.pdf](https://github.com/urbanscratcher/study-html-css-udemy/files/13439057/How.CSS.works.behind.the.scene.81a604a6aea5438ca4cc0e2d8f2d5039.pdf)
+- [LEC_NOTE_CSS_BTS.pdf](https://github.com/urbanscratcher/study-html-css-udemy/files/13439057/How.CSS.works.behind.the.scene.81a604a6aea5438ca4cc0e2d8f2d5039.pdf)
